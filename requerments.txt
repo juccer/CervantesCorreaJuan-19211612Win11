@@ -1,0 +1,4 @@
+Windows 11
+php
+Mysql worbench
+bd: pnlf user: admin port: 3306/3307 host: localhost
